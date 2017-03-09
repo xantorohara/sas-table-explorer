@@ -1,2 +1,1 @@
-# sas-table-explorer
-SAS Table Explorer
+[Rocket Table](https://github.com/xantorohara/rocket-table) is a successor of this project.
