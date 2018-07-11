@@ -1,1 +1,1 @@
-See [Rocket Table](https://github.com/xantorohara/rocket-table)
+See [Rocket Table](https://xantorohara.github.io/rocket-table/)
